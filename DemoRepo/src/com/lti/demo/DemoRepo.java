@@ -5,6 +5,6 @@ public class DemoRepo {
 		int i =0;
 		String str =  "hello";
 		System.out.println(i+str);
-		System.out.println(i+str);
+		
 }
 }
